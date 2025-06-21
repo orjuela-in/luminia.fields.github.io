@@ -1,0 +1,20 @@
+*{
+    margin: auto;
+    color: #000;
+}
+
+main {background-color: #E4F2E7;}
+
+h1 {background-color: #aaaaaa;}
+
+h2{background-color: #666666;}
+
+p {background-color: #f6fe00;}
+
+div {background-color: #8cc63f;}
+
+footer {background-color: #754c00; color: wheat; text-align: center;}
+
+article {border: dashed 2px; color: #f79300; }
+
+section{border: dashed 2px; color: #009200; }
